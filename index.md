@@ -12,7 +12,6 @@
 <li title="" data-original-title="">High-performance Computing</li>
 <li title="" data-original-title="">Multi/Many Objectives Optimization</li>
 </ul>
-<ul>
 
 ## Source Code
 
