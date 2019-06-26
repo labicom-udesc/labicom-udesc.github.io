@@ -1,6 +1,5 @@
-<h1 style="text-align: center;"><strong>Intelligent COMputing Research Laboratory - ICOM Lab</strong></h1>
-<div>
-<div>
+# ICOM Lab
+
 <p>The Intelligent Computing Research Laboratory is attached to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville) and is part of the Applied Cognitive Computing Group (Grupo de Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA).</p>
 <p>The main research projects developed at ICOM Lab are related to:</p>
 <ul>
@@ -14,7 +13,9 @@
 <li title="" data-original-title="">Multi/Many Objectives Optimization</li>
 </ul>
 <ul>
-<li>Source Code</li>
+
+## Source Code
+
 <ul>
 <li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization.
 <ul>
@@ -46,8 +47,9 @@
 </li>
 <li>XXX</li>
 </ul>
-</li>
-<li>People
+
+## People
+
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator) - <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a></li>
 <li>Gabriel Dominico (MSc Graduate)</li>
@@ -57,18 +59,19 @@
 <li>Christopher Renkavieski (Undergraduate)</li>
 </ul>
 </li>
-<li>Research Projects</li>
-<li>Infraestructure</li>
+
+## Research Projects
+
+Research projects under development ...
+
+## Infraestructure
+
+The available infraestructure  ...
+
 </ul>
 </div>
 </div>
 <p>Under Construction...</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cocalabs.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
-# ICOM Lab
 
-Research Lab.
-
-## People
-
-People are here.
