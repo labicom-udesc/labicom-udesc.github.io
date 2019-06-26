@@ -1,17 +1,6 @@
 # ICOM Lab
 
 <p>The Intelligent Computing Research Laboratory is attached to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville) and is part of the Applied Cognitive Computing Group (Grupo de Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA).</p>
-<p>The main research projects developed at ICOM Lab are related to:</p>
-<ul>
-<li title="" data-original-title="">Deep Learning</li>
-<li title="" data-original-title="">Bioinformatics</li>
-<li title="" data-original-title="">Evolutionary Computation</li>
-<li title="" data-original-title="">Swarm Intelligence</li>
-<li title="" data-original-title="">Computer Vision</li>
-<li title="" data-original-title="">Data Mining</li>
-<li title="" data-original-title="">High-performance Computing</li>
-<li title="" data-original-title="">Multi/Many Objectives Optimization</li>
-</ul>
 
 ## Source Code
 
@@ -51,26 +40,37 @@
 
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator) - <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a></li>
+<li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS)</li>
+<li>Gilmário Barbosa (Colaborator - UDESC/DCC)</li>    
+<li>Heitor Silvério Lopes (Colaborator - UTFPR)</li>    
 <li>Gabriel Dominico (MSc Graduate)</li>
 <li>Mateus Boiani (MSc Graduate)</li>
 <li>Renan Silva (MSc Graduate)</li>
+<li>Nilcimar Neitzel Will (MSc Graduate)</li>
 <li>Luiza Engler Stadelhofer (Undergraduate)</li>
 <li>Christopher Renkavieski (Undergraduate)</li>
+<li>Bruno Werner (Undergraduate)</li>  
+<li>André Dias (Undergraduate)</li>  
 </ul>
-</li>
 
 ## Research Projects
 
-Research projects under development ...
+<p>The main research projects developed at ICOM Lab are related to:</p>
+<ul>
+<li title="" data-original-title="">Deep Learning</li>
+<li title="" data-original-title="">Bioinformatics</li>
+<li title="" data-original-title="">Evolutionary Computation</li>
+<li title="" data-original-title="">Swarm Intelligence</li>
+<li title="" data-original-title="">Computer Vision</li>
+<li title="" data-original-title="">Data Mining</li>
+<li title="" data-original-title="">High-performance Computing</li>
+<li title="" data-original-title="">Multi/Many Objectives Optimization</li>
+</ul>
 
 ## Infraestructure
 
 The available infraestructure  ...
 
-</ul>
-</div>
-</div>
-<p>Under Construction...</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cocalabs.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
 
