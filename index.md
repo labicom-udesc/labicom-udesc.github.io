@@ -64,3 +64,11 @@
 </div>
 <p>Under Construction...</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cocalabs.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
+
+# ICOM Lab
+
+Research Lab.
+
+## People
+
+People are here.
