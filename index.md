@@ -71,6 +71,6 @@
 
 The available infraestructure  ...
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cocalabs.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icomlab.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
 
