@@ -1,6 +1,6 @@
 # ICOM Lab
 
-<p>The Intelligent Computing Research Laboratory is attached to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville) and is part of the Applied Cognitive Computing Group (Grupo de Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA).</p>
+<p>The Intelligent Computing Research Laboratory is part of the Applied Cognitive Computing Research Group (Grupo de Pesquisa em Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA) and is linked to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville).</p>
 
 ## Source Code
 
