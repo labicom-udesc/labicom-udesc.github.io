@@ -44,13 +44,11 @@
 <div class="layout-cell-pad-5"><a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a></div>
 </li></ul>
 </li>  
-  
 <li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS)
 <ul><li>
 <div class="layout-cell-pad-5"><a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a></div>
 </li></ul>
 </li> 
-
 <li>Heitor Silvério Lopes (Colaborator - UTFPR)
 <ul><li>
 <div class="layout-cell-pad-5"><a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:hslopes@utfpr.edu.br">Email</a></div>
