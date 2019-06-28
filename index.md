@@ -16,7 +16,7 @@
 <li>PARPINELLI, R.S., LOPES, H.S. and FREITAS, A.A. "Data Mining with an Ant Colony Optimization Algorithm". In: IEEE Transactions on Evolutionary Computation, Volume 6, Issue 4, pp. 321&ndash;332. IEEE, 2002.</li>
 </ul>
 </li>
-<li><a href="https://github.com/mateuz/cujDE" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization.<br />
+<li><a href="https://mateuz.github.io/cujDE/" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization.<br />
 <ul>
 <li>
 <div class="layout-cell-pad-5">BOIANI, M. ; DOMINICO, G. ; PARPINELLI, R. S. . "A GPU-based jDE Algorithm Applied to Continuous Unconstrained Optimization". In: International Conference on Intelligent Systems Design and Applications, 2018.</div>
