@@ -2,24 +2,9 @@
 
 <p>The Intelligent Computing Research Laboratory is part of the Applied Cognitive Computing Research Group (Grupo de Pesquisa em Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA) and is linked to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville, Brazil).</p>
 
-## Research Projects
-
-<p>The main research projects developed at ICOM Lab are related to:</p>
-<ul>
-<li title="" data-original-title="">Deep Learning</li>
-<li title="" data-original-title="">Bioinformatics</li>
-<li title="" data-original-title="">Evolutionary Computation</li>
-<li title="" data-original-title="">Swarm Intelligence</li>
-<li title="" data-original-title="">Computer Vision</li>
-<li title="" data-original-title="">Data Mining</li>
-<li title="" data-original-title="">High-performance Computing</li>
-<li title="" data-original-title="">Multi/Many Objectives Optimization</li>
-</ul>
-
 ## People
 
 <ul>
-  
 <li>Rafael Stubs Parpinelli (Head/Coordinator)
 <ul><li>
 <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
@@ -46,6 +31,20 @@
 <li>Christopher Renkavieski (Undergraduate)</li>
 <li>Bruno Werner (Undergraduate)</li>  
 <li>André Dias (Undergraduate)</li>  
+</ul>
+
+## Research Projects
+
+<p>The main research projects developed at ICOM Lab are related to:</p>
+<ul>
+<li title="" data-original-title="">Deep Learning</li>
+<li title="" data-original-title="">Bioinformatics</li>
+<li title="" data-original-title="">Evolutionary Computation</li>
+<li title="" data-original-title="">Swarm Intelligence</li>
+<li title="" data-original-title="">Computer Vision</li>
+<li title="" data-original-title="">Data Mining</li>
+<li title="" data-original-title="">High-performance Computing</li>
+<li title="" data-original-title="">Multi/Many Objectives Optimization</li>
 </ul>
 
 ## Infraestructure
