@@ -33,7 +33,6 @@
 </li>
 </ul>
 </li>
-<li>XXX</li>
 </ul>
 
 ## People
@@ -41,8 +40,10 @@
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator) - <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a></li>
 <li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS)</li>
-<li>Gilmário Barbosa (Colaborator - UDESC/DCC)</li>    
 <li>Heitor Silvério Lopes (Colaborator - UTFPR)</li>    
+<li>Leanderson André (Colaborator - UNIVILLE)</li>    
+<li>Sandro Roberto Loiola de Menezes (Colaborator - Totvz)</li>
+<br>
 <li>Gabriel Dominico (MSc Graduate)</li>
 <li>Mateus Boiani (MSc Graduate)</li>
 <li>Renan Silva (MSc Graduate)</li>
@@ -69,7 +70,7 @@
 
 ## Infraestructure
 
-The available infraestructure  ...
+The available infraestructure is in update.
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icomlab.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
