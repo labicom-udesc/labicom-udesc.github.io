@@ -48,6 +48,7 @@
 <li>Mateus Boiani (MSc Graduate)</li>
 <li>Renan Silva (MSc Graduate)</li>
 <li>Nilcimar Neitzel Will (MSc Graduate)</li>
+<br>
 <li>Luiza Engler Stadelhofer (Undergraduate)</li>
 <li>Christopher Renkavieski (Undergraduate)</li>
 <li>Bruno Werner (Undergraduate)</li>  
