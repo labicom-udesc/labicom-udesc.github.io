@@ -38,11 +38,9 @@
 ## People
 
 <ul>
-<li>Rafael Stubs Parpinelli (Head/Coordinator) - <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a></li>
-<li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS)</li>
-<li>Heitor Silvério Lopes (Colaborator - UTFPR)</li>    
-<li>Leanderson André (Colaborator - UNIVILLE)</li>    
-<li>Sandro Roberto Loiola de Menezes (Colaborator - Totvz)</li>
+<li>Rafael Stubs Parpinelli (Head/Coordinator) - <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a></li>
+<li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS) - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a></li> 
+<li>Heitor Silvério Lopes (Colaborator - UTFPR) - <a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a></li>
 <br>
 <li>Gabriel Dominico (MSc Graduate)</li>
 <li>Mateus Boiani (MSc Graduate)</li>
