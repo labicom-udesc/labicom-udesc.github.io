@@ -1,8 +1,8 @@
 # ICOM Lab
 
 <p>O Laboratório de Pesquisa em Inteligência Computacional é parte do Grupo de Pesquisa em Computação Cognitiva Aplicada (COCA) e está vinculado ao Programa de Pós-graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC, Joinville - SC, Brasil).
-  
-  The ICOM Lab is part of the Applied Cognitive Computing Research Group (Grupo de Pesquisa em Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA) and is linked to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville - SC, Brazil).</p>
+<br>
+The ICOM Lab is part of the Applied Cognitive Computing Research Group (Grupo de Pesquisa em Computa&ccedil;&atilde;o Cognitiva Aplicada - COCA) and is linked to the Graduate Programm in Applied Computing from the Santa Catarina State University (UDESC, Joinville - SC, Brazil).</p>
 
 ## People
 
