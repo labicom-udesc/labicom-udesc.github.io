@@ -14,27 +14,27 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
 </li></ul>
 </li>  
-<li>Chidambaram Chidambaram (Colaborator - UDESC/DEPS)
+<li>Chidambaram Chidambaram (Researcher - UDESC/DEPS)
 <ul><li>
 <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a>
 </li></ul>
 </li> 
-<li>Heitor Silvério Lopes (Colaborator - UTFPR)
+<li>Heitor Silvério Lopes (Collaborator - UTFPR)
 <ul><li>
-<a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:hslopes@utfpr.edu.br">Email</a>
+<a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://bioinfo.cpgei.ct.utfpr.edu.br" target="_blank" rel="noopener">BIOINFO-IC</a> - <a href="mailto:hslopes@utfpr.edu.br">Email</a>
 </li></ul>
 </li>
 
 <br>
-<li>Gabriel Dominico (MSc Graduate)</li>
-<li>Mateus Boiani (MSc Graduate)</li>
-<li>Renan Silva (MSc Graduate)</li>
-<li>Nilcimar Neitzel Will (MSc Graduate)</li>
+<li>Gabriel Dominico (MSc Student)</li>
+<li>Mateus Boiani (MSc Student)</li>
+<li>Renan Silva (MSc Student)</li>
+<li>Nilcimar Neitzel Will (MSc Student)</li>
 <br>
-<li>Luiza Engler Stadelhofer (Undergraduate)</li>
-<li>Christopher Renkavieski (Undergraduate)</li>
-<li>Bruno Werner (Undergraduate)</li>  
-<li>André Dias (Undergraduate)</li>  
+<li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
+<li>Christopher Renkavieski (Undergraduate Student)</li>
+<li>Bruno Werner (Undergraduate Student)</li>  
+<li>André Dias (Undergraduate Student)</li>  
 </ul>
 
 ## Research Projects
@@ -53,7 +53,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 ## Infraestructure
 
-The available infraestructure is in update.
+The available infraestructure is under update.
 
 ## Source Code
 
