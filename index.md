@@ -57,37 +57,52 @@ The available infraestructure is in update.
 
 ## Source Code
 
+### C/C++
 <ul>
-<li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization.
+<li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization. Dev: Rafael S. Parpinelli.
 <ul>
 <li>PARPINELLI, R.S.; LOPES, H.S. "Biological Plausibility in Optimization: An Ecosystemic View". International Journal of Bio-Inspired Computation (Online), v. 4, p. 345-358, 2012.</li>
 <li>PARPINELLI, R.S.; LOPES, H.S. "A computational ecosystem for optimization: review and perspectives for future research", Memetic ComputingVolume 7, Issue 1, 29-41, 2014.</li>
 </ul>
 </li>
-<li><a href="https://github.com/fernandomeyer/GUI-Ant-Miner" target="_blank" rel="noopener">GUI Ant-Miner</a>: GUI Ant-Miner is a tool for extracting classification rules from data. It is an updated version of a data mining algorithm called Ant-Miner.
-<ul>
-<li>PARPINELLI, R.S., LOPES, H.S. and FREITAS, A.A. "Data Mining with an Ant Colony Optimization Algorithm". In: IEEE Transactions on Evolutionary Computation, Volume 6, Issue 4, pp. 321&ndash;332. IEEE, 2002.</li>
-</ul>
-</li>
-<li><a href="https://mateuz.github.io/cujDE/" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization.<br />
+  
+<li><a href="https://mateuz.github.io/cujDE/" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.
 <ul>
 <li>
 <div class="layout-cell-pad-5">BOIANI, M. ; DOMINICO, G. ; PARPINELLI, R. S. . "A GPU-based jDE Algorithm Applied to Continuous Unconstrained Optimization". In: International Conference on Intelligent Systems Design and Applications, 2018.</div>
 </li>
 </ul>
 </li>
-<li><a href="https://github.com/mateuz/jDE" target="_blank" rel="noopener">jDE</a>: A sequential implementation of a self-adaptive differential evolution namely jDE in C++.</li>
-<li><a href="https://github.com/mateuz/SHADE" target="_blank" rel="noopener">SHADE</a>: <span class="text-gray-dark mr-2">Success-History based parameter Adaptation for Differential Evolution proposed by Ryoji Tanabe and Alex Fukunaga (2013).</span></li>
-<li><a href="https://github.com/ChrisRenka/TCC" target="_blank" rel="noopener">EB-A-SHADE</a>: <span class="text-gray-dark mr-2">A-SHADE with mutation strategies from EB-L-SHADE. Other variations can be found in this repository. EB-A-SHADE obtained best results using the CEC-2013 benchmark set (28 functions).</span></li>  
-<li><span class="text-gray-dark mr-2"><a href="https://github.com/wesklei/PRVNS" target="_blank" rel="noopener">PRVNS</a>: Population-based Reduced Variable Neighbourhood Search for unconstrained continuous optimization. Some pattern search algorithms are also available, such as the Nelder-Mead and the Hooke-Jeeves.</span>
+
+<li><a href="https://github.com/mateuz/jDE" target="_blank" rel="noopener">jDE</a>: A sequential implementation of a self-adaptive differential evolution namely jDE in C++. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.</li>
+
+<li><a href="https://github.com/mateuz/SHADE" target="_blank" rel="noopener">SHADE</a>: <span class="text-gray-dark mr-2">Success-History based parameter Adaptation for Differential Evolution proposed by Ryoji Tanabe and Alex Fukunaga (2013).</span> Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.</li>
+
+<li><a href="https://github.com/ChrisRenka/TCC" target="_blank" rel="noopener">EB-A-SHADE</a>: <span class="text-gray-dark mr-2">A-SHADE with mutation strategies from EB-L-SHADE. Other variations can be found in this repository. EB-A-SHADE obtained best results using the CEC-2013 benchmark set (28 functions).</span> Dev: <a href="https://github.com/ChrisRenka/" target="_blank" rel="noopener">Christopher Renkavieski</a>.</li>  
+
+<li><span class="text-gray-dark mr-2"><a href="https://github.com/wesklei/PRVNS" target="_blank" rel="noopener">PRVNS</a>: Population-based Reduced Variable Neighbourhood Search for unconstrained continuous optimization. Some pattern search algorithms are also available, such as the Nelder-Mead and the Hooke-Jeeves.</span>  Dev: <a href="https://github.com/wesklei/" target="_blank" rel="noopener">Wesklei Migliorini</a>.
 <ul>
 <li>
 <div class="layout-cell-pad-5">MIGLIORINI, W. ; PARPINELLI, R. S. . Population-based variable neighbourhood search algorithm applied to unconstrained continuous optimisation. INTERNATIONAL JOURNAL OF BIO-INSPIRED COMPUTATION (ONLINE), v. 11, p. 73-80, 2018.</div>
 </li>
 </ul>
 </li>
+
 </ul>
 
+### Python
+<ul>
+<li><a href="https://github.com/gplichoski/OptimizationAlgorithms" target="_blank" rel="noopener">OptAlgs</a>: <span class="text-gray-dark mr-2">This repository contains some population-based optimization algorithms in Python, namely PSO, DE, and CODE.</span> Dev: <a href="https://github.com/gplichoski/" target="_blank" rel="noopener">Guilherme Plichoski</a>.</li>
+</ul>
+
+### Java
+<ul>
+<li><a href="https://github.com/fernandomeyer/GUI-Ant-Miner" target="_blank" rel="noopener">GUI Ant-Miner</a>: GUI Ant-Miner is a tool for extracting classification rules from data. It is an updated version of a data mining algorithm called Ant-Miner. Dev: <a href="https://github.com/fernandomeyer/" target="_blank" rel="noopener">Fernando Meyer</a>.
+<ul>
+<li>PARPINELLI, R.S., LOPES, H.S. and FREITAS, A.A. "Data Mining with an Ant Colony Optimization Algorithm". In: IEEE Transactions on Evolutionary Computation, Volume 6, Issue 4, pp. 321&ndash;332. IEEE, 2002.</li>
+</ul>
+</li>
+</ul>
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icomlab.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
