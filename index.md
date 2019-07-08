@@ -97,12 +97,21 @@ The available infraestructure is under update.
 
 ### Java
 <ul>
+  
+<li><a href="https://github.com/LBMbr/SelectionMethodsProject" target="_blank" rel="noopener">CPS Problem</a>: contains the implementation of all selection methods developed to approach the Cloud Provider Selection Problem. Deterministic methods such as DEA and matching, and metaheuristic methods such as GA, DDE, BDE, and SA. Dev: <a href="https://github.com/LBMbr/" target="_blank" rel="noopener">Lucas Borges de Moraes</a>.
+<ul>
+<li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. An Evolutive Hybrid Approach to Cloud Computing Provider Selection. In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
+</ul>
+</li>
+
 <li><a href="https://github.com/fernandomeyer/GUI-Ant-Miner" target="_blank" rel="noopener">GUI Ant-Miner</a>: GUI Ant-Miner is a tool for extracting classification rules from data. It is an updated version of a data mining algorithm called Ant-Miner. Dev: <a href="https://github.com/fernandomeyer/" target="_blank" rel="noopener">Fernando Meyer</a>.
 <ul>
 <li>PARPINELLI, R.S., LOPES, H.S. and FREITAS, A.A. "Data Mining with an Ant Colony Optimization Algorithm". In: IEEE Transactions on Evolutionary Computation, Volume 6, Issue 4, pp. 321&ndash;332. IEEE, 2002.</li>
 </ul>
 </li>
+
 </ul>
+
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://icomlab.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
 
