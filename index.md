@@ -39,16 +39,18 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 ## Research Projects
 
-<p>The main research projects developed at ICOM Lab are related to:</p>
+<p>The main research projects developed at ICOM Lab are related but not limited to:</p>
 <ul>
+<li title="" data-original-title="">Development and enhancement of optimization algorithms</li>
+<li title="" data-original-title="">Applications of Evolutionary Computation and Swarm Intelligence</li>  
 <li title="" data-original-title="">Deep Learning</li>
-<li title="" data-original-title="">Bioinformatics</li>
-<li title="" data-original-title="">Evolutionary Computation</li>
-<li title="" data-original-title="">Swarm Intelligence</li>
 <li title="" data-original-title="">Computer Vision</li>
-<li title="" data-original-title="">Data Mining</li>
-<li title="" data-original-title="">High-performance Computing</li>
+<li title="" data-original-title="">Bioinformatics</li>
+<li title="" data-original-title="">Internet of things</li>    
+<li title="" data-original-title="">Machine Learning</li>
 <li title="" data-original-title="">Multi/Many Objectives Optimization</li>
+<li title="" data-original-title="">Multimodal Optimization</li>
+<li title="" data-original-title="">High-performance Computing</li>
 </ul>
 
 ## Infraestructure
