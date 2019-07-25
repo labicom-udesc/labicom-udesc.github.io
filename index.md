@@ -1,4 +1,4 @@
-# LINC
+# LABICOM
 
 <p>O Laboratório de Pesquisa em Inteligência Computacional é parte do Grupo de Pesquisa em Computação Cognitiva Aplicada (COCA) e está vinculado ao Programa de Pós-graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC, Joinville - SC, Brasil).
 <br>
@@ -39,7 +39,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 ## Research Projects
 
-<p>The research projects developed at LINC are related but not limited to:</p>
+<p>The research projects are related but not limited to the following topics:</p>
 <ul>
 <li title="" data-original-title="">Development and enhancement of optimization algorithms</li>
 <li title="" data-original-title="">Applications of Evolutionary Computation and Swarm Intelligence</li>  
