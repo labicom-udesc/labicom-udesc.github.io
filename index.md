@@ -27,9 +27,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <br>
 <li>Gabriel Dominico (MSc Student)</li>
+<li>João Pedro Schmitt (MSc Student)</li>
 <li>Mateus Boiani (MSc Student)</li>
-<li>Renan Silva (MSc Student)</li>
 <li>Nilcimar Neitzel Will (MSc Student)</li>
+<li>Renan Silva (MSc Student)</li>
 <br>
 <li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
 <li>Christopher Renkavieski (Undergraduate Student)</li>
@@ -103,6 +104,12 @@ The available infraestructure is under update.
 <li><a href="https://github.com/LBMbr/SelectionMethodsProject" target="_blank" rel="noopener">CPS Problem</a>: contains the implementation of all selection methods developed to approach the Cloud Provider Selection Problem. Deterministic methods such as DEA and matching, and metaheuristic methods such as GA, DDE, BDE, and SA. Dev: <a href="https://github.com/LBMbr/" target="_blank" rel="noopener">Lucas Borges de Moraes</a>.
 <ul>
 <li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. An Evolutive Hybrid Approach to Cloud Computing Provider Selection. In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
+</ul>
+</li>
+
+<li><a href="https://github.com/schmittjoaopedro/mmas-mem" target="_blank" rel="noopener">MMAS-MEM</a>: A MAX-MIN Ant System with Short-term Memory Applied to the Dynamic and Asymmetric Traveling Salesman Problem. Dev: <a href="https://github.com/schmittjoaopedro/" target="_blank" rel="noopener">João Pedro Schmitt</a>.
+<ul>
+<li>SCHMITT, P. J., BALDO, F., PARPINELLI, R.S. "A MAX-MIN Ant System with Short-Term Memory Applied to the Dynamic and Asymmetric Traveling Salesman Problem". 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018.</li>
 </ul>
 </li>
 
