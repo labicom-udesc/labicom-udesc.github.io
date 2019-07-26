@@ -82,12 +82,6 @@ The available infraestructure is under update.
 
 ### C/C++
 <ul>
-<li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization. Dev: Rafael S. Parpinelli.
-<ul>
-<li>PARPINELLI, R.S.; LOPES, H.S. "Biological Plausibility in Optimization: An Ecosystemic View". International Journal of Bio-Inspired Computation (Online), v. 4, p. 345-358, 2012.</li>
-<li>PARPINELLI, R.S.; LOPES, H.S. "A computational ecosystem for optimization: review and perspectives for future research", Memetic ComputingVolume 7, Issue 1, 29-41, 2014.</li>
-</ul>
-</li>
   
 <li><a href="https://mateuz.github.io/cujDE/" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.
 <ul>
@@ -106,8 +100,15 @@ The available infraestructure is under update.
 <li><span class="text-gray-dark mr-2"><a href="https://github.com/wesklei/PRVNS" target="_blank" rel="noopener">PRVNS</a>: Population-based Reduced Variable Neighbourhood Search for unconstrained continuous optimization. Some pattern search algorithms are also available, such as the Nelder-Mead and the Hooke-Jeeves.</span>  Dev: <a href="https://github.com/wesklei/" target="_blank" rel="noopener">Wesklei Migliorini</a>.
 <ul>
 <li>
-<div class="layout-cell-pad-5">MIGLIORINI, W. ; PARPINELLI, R. S. . Population-based variable neighbourhood search algorithm applied to unconstrained continuous optimisation. INTERNATIONAL JOURNAL OF BIO-INSPIRED COMPUTATION (ONLINE), v. 11, p. 73-80, 2018.</div>
+<div class="layout-cell-pad-5">MIGLIORINI, W., PARPINELLI, R.S.. "Population-based variable neighbourhood search algorithm applied to unconstrained continuous optimisation". INTERNATIONAL JOURNAL OF BIO-INSPIRED COMPUTATION (ONLINE), v. 11, p. 73-80, 2018.</div>
 </li>
+</ul>
+</li>
+
+<li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization. Dev: Rafael S. Parpinelli.
+<ul>
+<li>PARPINELLI, R.S.; LOPES, H.S. "Biological Plausibility in Optimization: An Ecosystemic View". International Journal of Bio-Inspired Computation (Online), v. 4, p. 345-358, 2012.</li>
+<li>PARPINELLI, R.S.; LOPES, H.S. "A computational ecosystem for optimization: review and perspectives for future research", Memetic ComputingVolume 7, Issue 1, 29-41, 2014.</li>
 </ul>
 </li>
 
@@ -123,7 +124,7 @@ The available infraestructure is under update.
   
 <li><a href="https://github.com/LBMbr/SelectionMethodsProject" target="_blank" rel="noopener">CPS Problem</a>: contains the implementation of all selection methods developed to approach the Cloud Provider Selection Problem. Deterministic methods such as DEA and matching, and metaheuristic methods such as GA, DDE, BDE, and SA. Dev: <a href="https://github.com/LBMbr/" target="_blank" rel="noopener">Lucas Borges de Moraes</a>.
 <ul>
-<li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. An Evolutive Hybrid Approach to Cloud Computing Provider Selection. In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
+<li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. "An Evolutive Hybrid Approach to Cloud Computing Provider Selection". In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
 </ul>
 </li>
 
