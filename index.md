@@ -105,7 +105,7 @@ The available infraestructure is under update.
 </ul>
 </li>
 
-<li><a href="https://github.com/cocalabs/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization. Dev: Rafael S. Parpinelli.
+<li><a href="https://github.com/labicom-udesc/ECO-framework" target="_blank" rel="noopener">ECO Framework</a>: Ecologically-inspired framework for continuous optimization. Dev: Rafael S. Parpinelli.
 <ul>
 <li>PARPINELLI, R.S.; LOPES, H.S. "Biological Plausibility in Optimization: An Ecosystemic View". International Journal of Bio-Inspired Computation (Online), v. 4, p. 345-358, 2012.</li>
 <li>PARPINELLI, R.S.; LOPES, H.S. "A computational ecosystem for optimization: review and perspectives for future research", Memetic ComputingVolume 7, Issue 1, 29-41, 2014.</li>
