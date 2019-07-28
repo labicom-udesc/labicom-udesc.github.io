@@ -122,7 +122,7 @@ The available infraestructure is under update.
 ### Java
 <ul>
 
-<li><a href="https://github.com/schmittjoaopedro/mmas-ls-adtspmv" target="_blank" rel="noopener">CPS Problem</a>: Analysis of Max-Min Ant System with Local Search Applied to the Asymmetric and Dynamic Travelling Salesman Problem with Moving Vehicle. Dev: <a href="https://github.com/schmittjoaopedro/" target="_blank" rel="noopener">João Pedro Schmitt</a>.
+<li><a href="https://github.com/schmittjoaopedro/mmas-ls-adtspmv" target="_blank" rel="noopener">MMAS-LS-ADTSPMV</a>: Analysis of Max-Min Ant System with Local Search Applied to the Asymmetric and Dynamic Travelling Salesman Problem with Moving Vehicle. Dev: <a href="https://github.com/schmittjoaopedro/" target="_blank" rel="noopener">João Pedro Schmitt</a>.
 <ul>
 <li>SCHMITT, P. J., BALDO, F., PARPINELLI, R.S. "Analysis of Max-Min Ant System with Local Search Applied to the Asymmetric and Dynamic Travelling Salesman Problem with Moving Vehicle". Special Event on Analysis of Experimental Algorithms (SEA^2), Kalamata, Greece, 2019.</li>
 </ul>
