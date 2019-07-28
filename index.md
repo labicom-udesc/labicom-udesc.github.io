@@ -92,10 +92,13 @@ The available infraestructure is under update.
 </li>
 
 <li><a href="https://github.com/mateuz/jDE" target="_blank" rel="noopener">jDE</a>: A sequential implementation of a self-adaptive differential evolution namely jDE in C++. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.</li>
+<br>
 
 <li><a href="https://github.com/mateuz/SHADE" target="_blank" rel="noopener">SHADE</a>: <span class="text-gray-dark mr-2">Success-History based parameter Adaptation for Differential Evolution proposed by Ryoji Tanabe and Alex Fukunaga (2013).</span> Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.</li>
+<br>
 
 <li><a href="https://github.com/ChrisRenka/TCC" target="_blank" rel="noopener">EB-A-SHADE</a>: <span class="text-gray-dark mr-2">A-SHADE with mutation strategies from EB-L-SHADE. Other variations can be found in this repository. EB-A-SHADE obtained best results using the CEC-2013 benchmark set (28 functions).</span> Dev: <a href="https://github.com/ChrisRenka/" target="_blank" rel="noopener">Christopher Renkavieski</a>.</li>  
+<br>
 
 <li><span class="text-gray-dark mr-2"><a href="https://github.com/wesklei/PRVNS" target="_blank" rel="noopener">PRVNS</a>: Population-based Reduced Variable Neighbourhood Search for unconstrained continuous optimization. Some pattern search algorithms are also available, such as the Nelder-Mead and the Hooke-Jeeves.</span>  Dev: <a href="https://github.com/wesklei/" target="_blank" rel="noopener">Wesklei Migliorini</a>.
 <ul>
