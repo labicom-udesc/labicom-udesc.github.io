@@ -121,7 +121,13 @@ The available infraestructure is under update.
 
 ### Java
 <ul>
-  
+
+<li><a href="https://github.com/schmittjoaopedro/mmas-ls-adtspmv" target="_blank" rel="noopener">CPS Problem</a>: Analysis of Max-Min Ant System with Local Search Applied to the Asymmetric and Dynamic Travelling Salesman Problem with Moving Vehicle. Dev: <a href="https://github.com/schmittjoaopedro/" target="_blank" rel="noopener">João Pedro Schmitt</a>.
+<ul>
+<li>SCHMITT, P. J., BALDO, F., PARPINELLI, R.S. "Analysis of Max-Min Ant System with Local Search Applied to the Asymmetric and Dynamic Travelling Salesman Problem with Moving Vehicle". Special Event on Analysis of Experimental Algorithms (SEA^2), Kalamata, Greece, 2019.</li>
+</ul>
+</li>
+
 <li><a href="https://github.com/LBMbr/SelectionMethodsProject" target="_blank" rel="noopener">CPS Problem</a>: contains the implementation of all selection methods developed to approach the Cloud Provider Selection Problem. Deterministic methods such as DEA and matching, and metaheuristic methods such as GA, DDE, BDE, and SA. Dev: <a href="https://github.com/LBMbr/" target="_blank" rel="noopener">Lucas Borges de Moraes</a>.
 <ul>
 <li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. "An Evolutive Hybrid Approach to Cloud Computing Provider Selection". In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
