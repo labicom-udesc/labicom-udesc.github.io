@@ -60,7 +60,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <br>
 <br>
 <li>
-<a href="./former-students.md" target="" rel="noopener">Former Students</a>
+<a href="./former-students.html" target="" rel="noopener">Former Students</a>
 </li>
 </ul>
 
