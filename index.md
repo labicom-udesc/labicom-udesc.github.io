@@ -57,11 +57,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Christopher Renkavieski (Undergraduate Student)</li>
 <li>Eduarda Cristina Rosa (Undergraduate Student)</li>
 <li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
-<br>
-<br>
-<li>
-<a href="./former-students.html" target="" rel="noopener">Former Students</a>
-</li>
+
 </ul>
 
 ## Research Projects
