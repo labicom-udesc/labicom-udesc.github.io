@@ -52,10 +52,16 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Nilcimar Neitzel Will (MSc Student)</li>
 <li>Renan Silva (MSc Student)</li>
 <br>
-<li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
-<li>Christopher Renkavieski (Undergraduate Student)</li>
+<li>André Dias (Undergraduate Student)</li> 
 <li>Bruno Werner (Undergraduate Student)</li>  
-<li>André Dias (Undergraduate Student)</li>  
+<li>Christopher Renkavieski (Undergraduate Student)</li>
+<li>Eduarda Cristina Rosa (Undergraduate Student)</li>
+<li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
+
+<br>
+[Former Students](./former-students.html).
+<li>Former Students</li>
+
 </ul>
 
 ## Research Projects
