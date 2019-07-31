@@ -11,7 +11,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator)
 <ul><li>
-<a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="https://scholar.google.com.br/citations?user=C02L7R0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Rafael_Parpinelli" target="_blank" rel="noopener">ResearchGate</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
+<a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="https://scholar.google.com.br/citations?user=C02L7R0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Rafael_Parpinelli" target="_blank" rel="noopener">ResearchGate</a> - <a href="https://dblp.uni-trier.de/pers/hd/p/Parpinelli:Rafael_S=" target="_blank" rel="noopener">dblp</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
 </li></ul>
 </li>
   
@@ -46,11 +46,11 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li> 
 
 <br>
-<li>Gabriel Dominico (MSc Student)</li>
-<li>João Pedro Schmitt (MSc Student)</li>
-<li>Mateus Boiani (MSc Student)</li>
-<li>Nilcimar Neitzel Will (MSc Student)</li>
-<li>Renan Silva (MSc Student)</li>
+<li>Gabriel Dominico (M.Sc Student)</li>
+<li>João Pedro Schmitt (M.Sc Student)</li>
+<li>Mateus Boiani (M.Sc Student)</li>
+<li>Nilcimar Neitzel Will (M.Sc Student)</li>
+<li>Renan Silva (M.Sc Student)</li>
 <br>
 <li>André Dias (Undergraduate Student)</li> 
 <li>Bruno Werner (Undergraduate Student)</li>  
@@ -153,6 +153,16 @@ The available infraestructure is under update.
 
 </ul>
 
+## Address
+
+Laboratório de Pesquisa em Inteligência Computacional - LabICOM
+<br>
+CCT-UDESC
+<br>
+Rua Paulo Malschitzki, 200
+<br>
+Zona Industrial Norte, Joinville - SC, Brazil
+<br>
+CEP: 89.219-710 
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://labicom-udesc.github.io/img/logo2.jpg" alt="COCA Logo" /></p>
-
