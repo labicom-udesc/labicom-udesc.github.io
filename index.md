@@ -102,6 +102,9 @@ The available infraestructure is under update.
 <li><a href="https://github.com/ChrisRenka/TCC" target="_blank" rel="noopener">EB-A-SHADE</a>: <span class="text-gray-dark mr-2">A-SHADE with mutation strategies from EB-L-SHADE. Other variations can be found in this repository. EB-A-SHADE obtained best results using the CEC-2013 benchmark set (28 functions).</span> Dev: <a href="https://github.com/ChrisRenka/" target="_blank" rel="noopener">Christopher Renkavieski</a>.</li>  
 <br>
 
+<li><a href="https://github.com/luizaes/rngs" target="_blank" rel="noopener">RNGs</a>: <span class="text-gray-dark mr-2">Several methods for random number generation (RNG) are available. The are: Uniform distribution, Gaussian distribution, Cauchy distribution, Logistic map, Circle map, Gauss map, Piecewise map, Sine map, Singer map, Sinusoidal map, Tent map, Chebyshev map, Iteractive map. </span> Dev: <a href="https://github.com/luizaes" target="_blank" rel="noopener">Luiza Engler Stadelhofer</a>.</li>
+<br>
+
 <li><span class="text-gray-dark mr-2"><a href="https://github.com/wesklei/PRVNS" target="_blank" rel="noopener">PRVNS</a>: Population-based Reduced Variable Neighbourhood Search for unconstrained continuous optimization. Some pattern search algorithms are also available, such as the Nelder-Mead and the Hooke-Jeeves.</span>  Dev: <a href="https://github.com/wesklei/" target="_blank" rel="noopener">Wesklei Migliorini</a>.
 <ul>
 <li>
