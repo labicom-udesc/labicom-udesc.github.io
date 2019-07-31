@@ -79,7 +79,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 ## Laboratory Facilities
 
 <ul>
-<li title="" data-original-title="">Titan V: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8 GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.</li>
+<li title="" data-original-title="">Titan V: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8 GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.</li>
 </ul>
 
 The available infraestructure is under update.
