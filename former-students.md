@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Former Students
 <ul>
 
@@ -9,4 +13,4 @@
 
 </ul>
 
-[Back](./)
+[back](./)
