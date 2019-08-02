@@ -163,7 +163,7 @@ The available infraestructure is under update.
 
 ## Address
 
-Laboratório de Pesquisa em Inteligência Computacional - LabICOM
+Laboratório de Pesquisa em Inteligência Computacional - LABICOM
 <br>
 CCT-UDESC
 <br>
