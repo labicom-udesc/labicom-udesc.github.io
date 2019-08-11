@@ -4,7 +4,7 @@ layout: default
 
 ## Former Students
 
-All students listed below have contributed in some way at LABICOM.
+All students listed below took part in LABICOM.
 
 <ul>
 
