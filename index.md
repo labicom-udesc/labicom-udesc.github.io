@@ -51,15 +51,15 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li> 
 
-<li>Douglas Wildgrube Bertol (Collaborator - UDESC/DEE)
-<ul><li>
-<a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:douglas.bertol@udesc.br">Email</a>
-</li></ul>
-</li> 
-
 <li>Ademir Nied (Collaborator - UDESC/DEE)
 <ul><li>
 <a href="http://lattes.cnpq.br/3923997065773174" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:ademir.nied@udesc.br">Email</a>
+</li></ul>
+</li> 
+
+<li>Douglas Wildgrube Bertol (Collaborator - UDESC/DEE)
+<ul><li>
+<a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:douglas.bertol@udesc.br">Email</a>
 </li></ul>
 </li> 
 
