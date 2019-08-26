@@ -1,6 +1,6 @@
 # LABICOM
 
-<p>O Laboratório de Pesquisa em Inteligência Computacional é parte do Grupo de Pesquisa em Computação Cognitiva Aplicada (COCA) e está vinculado ao Programa de Pós-graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC, Joinville - SC, Brasil).
+<p>O Laboratório de Pesquisa em Inteligência Computacional é parte do Grupo de Pesquisa em Computação Cognitiva Aplicada (<a href="http://dgp.cnpq.br/dgp/espelhogrupo/1009940682265084" target="_blank" rel="noopener">COCA</a>) e está vinculado ao Programa de Pós-graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC, Joinville - SC, Brasil).
 <br>
 <hr>
 <br>
