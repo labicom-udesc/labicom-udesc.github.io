@@ -33,6 +33,12 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li>
 
+<li>Avanilde Kemczinski (Collaborator - UDESC/DCC)
+<ul><li>
+<a href="http://lattes.cnpq.br/0048790978449306" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:avanilde.kemczinski@udesc.br">Email</a>
+</li></ul>
+</li>
+
 <li>Cinara Terezinha Menegazzo (Collaborator - UDESC/DCC)
 <ul><li>
 <a href="http://lattes.cnpq.br/2438926399556474" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:cinara.menegazzo@udesc.br">Email</a>
