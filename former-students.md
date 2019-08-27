@@ -4,8 +4,6 @@ layout: default
 
 ## Former Students
 
-All students listed below took part in LABICOM.
-
 <ul>
 
 <li>Lucas Borges de Moraes (MSc Graduate 2019)</li>
