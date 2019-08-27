@@ -14,60 +14,6 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="https://scholar.google.com.br/citations?user=C02L7R0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Rafael_Parpinelli" target="_blank" rel="noopener">ResearchGate</a> - <a href="https://dblp.uni-trier.de/pers/hd/p/Parpinelli:Rafael_S=" target="_blank" rel="noopener">dblp</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
 </li></ul>
 </li>
-  
-<li>Chidambaram Chidambaram (Collaborator - UDESC/DEPS/COCA)
-<ul><li>
-<a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a>
-</li></ul>
-</li> 
-
-<li>Heitor Silvério Lopes (Collaborator - UTFPR)
-<ul><li>
-<a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://bioinfo.cpgei.ct.utfpr.edu.br" target="_blank" rel="noopener">BIOINFO-IC</a> - <a href="mailto:hslopes@utfpr.edu.br">Email</a>
-</li></ul>
-</li>
-
-<li>Adriano Fiorese (Collaborator - UDESC/DCC)
-<ul><li>
-<a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:adriano.fiorese@udesc.br">Email</a>
-</li></ul>
-</li>
-
-<li>Avanilde Kemczinski (Collaborator - UDESC/DCC)
-<ul><li>
-<a href="http://lattes.cnpq.br/0048790978449306" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:avanilde.kemczinski@udesc.br">Email</a>
-</li></ul>
-</li>
-
-<li>Cinara Terezinha Menegazzo (Collaborator - UDESC/DCC)
-<ul><li>
-<a href="http://lattes.cnpq.br/2438926399556474" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:cinara.menegazzo@udesc.br">Email</a>
-</li></ul>
-</li>
-
-<li>Fabiano Baldo (Collaborator - UDESC/DCC)
-<ul><li>
-<a href="http://lattes.cnpq.br/3000239587440812" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:fabiano.baldo@udesc.br">Email</a>
-</li></ul>
-</li> 
-
-<li>Gilmário Barbosa dos Santos (Collaborator - UDESC/DCC)
-<ul><li>
-<a href="http://lattes.cnpq.br/2957755655265658" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:gilmario.santos@udesc.br">Email</a>
-</li></ul>
-</li> 
-
-<li>Ademir Nied (Collaborator - UDESC/DEE)
-<ul><li>
-<a href="http://lattes.cnpq.br/3923997065773174" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:ademir.nied@udesc.br">Email</a>
-</li></ul>
-</li> 
-
-<li>Douglas Wildgrube Bertol (Collaborator - UDESC/DEE)
-<ul><li>
-<a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:douglas.bertol@udesc.br">Email</a>
-</li></ul>
-</li> 
 
 <br>
 <li>Gabriel Dominico (M.Sc Student)</li>
