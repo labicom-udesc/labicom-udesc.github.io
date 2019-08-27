@@ -86,6 +86,37 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 </ul>
 [Former Students](./former-students.html)
+<ul>
+<br>
+Current projects involve the following cooperation network:
+<li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a>)
+</li> 
+  
+<li>Heitor Silvério Lopes (UTFPR - <a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://bioinfo.cpgei.ct.utfpr.edu.br" target="_blank" rel="noopener">BIOINFO-IC</a> - <a href="mailto:hslopes@utfpr.edu.br">Email</a)
+</li>
+
+<li>Adriano Fiorese (UDESC/DCC - <a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:adriano.fiorese@udesc.br">Email</a>)
+</li>
+
+<li>Avanilde Kemczinski (UDESC/DCC - <a href="http://lattes.cnpq.br/0048790978449306" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:avanilde.kemczinski@udesc.br">Email</a>)
+</li>
+
+<li>Cinara Terezinha Menegazzo (UDESC/DCC - <a href="http://lattes.cnpq.br/2438926399556474" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:cinara.menegazzo@udesc.br">Email</a>)
+</li>
+
+<li>Fabiano Baldo (UDESC/DCC - <a href="http://lattes.cnpq.br/3000239587440812" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:fabiano.baldo@udesc.br">Email</a>)
+</li> 
+
+<li>Gilmário Barbosa dos Santos (UDESC/DCC - <a href="http://lattes.cnpq.br/2957755655265658" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:gilmario.santos@udesc.br">Email</a>)
+</li> 
+
+<li>Ademir Nied (UDESC/DEE - <a href="http://lattes.cnpq.br/3923997065773174" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:ademir.nied@udesc.br">Email</a>)
+</li> 
+
+<li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:douglas.bertol@udesc.br">Email</a>)
+</li>  
+  
+</ul>
 
 ## Research Projects
 
