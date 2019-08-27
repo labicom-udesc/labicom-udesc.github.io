@@ -32,7 +32,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 [Former Students](./former-students.html)
 <ul>
 
-<p>Current projects involve the following cooperation network:</p>
+<p>The cooperation network of current projects is:</p>
 <li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a>)
 </li> 
   
