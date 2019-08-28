@@ -15,22 +15,22 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li>
 
-<p>M.Sc Students:</p>
+<p>Graduate Students (MSc):</p>
 <li>Gabriel Dominico</li>
-<li>João Pedro Schmitt (M.Sc Student)</li>
-<li>Mateus Boiani (M.Sc Student)</li>
-<li>Mateus Nicoladelli de Oliveira (M.Sc Student)</li>
-<li>Nilcimar Neitzel Will (M.Sc Student)</li>
-<li>Renan Silva (M.Sc Student)</li>
-<br>
+<li>João Pedro Schmitt</li>
+<li>Mateus Boiani</li>
+<li>Mateus Nicoladelli de Oliveira </li>
+<li>Nilcimar Neitzel Will</li>
+<li>Renan Silva</li>
+
 <p>Undergraduate Students:</p>
-<li>André Dias (Undergraduate Student)</li>
-<li>André Tragancin (Undergraduate Student)</li>
-<li>Bruno Werner (Undergraduate Student)</li>  
-<li>Christopher Renkavieski (Undergraduate Student)</li>
-<li>Eduarda Cristina Rosa (Undergraduate Student)</li>
-<li>Guilherme Costa (Undergraduate Student)</li>
-<li>Luiza Engler Stadelhofer (Undergraduate Student)</li>
+<li>André Dias</li>
+<li>André Tragancin</li>
+<li>Bruno Werner </li>  
+<li>Christopher Renkavieski </li>
+<li>Eduarda Cristina Rosa </li>
+<li>Guilherme Costa </li>
+<li>Luiza Engler Stadelhofer</li>
 </ul>
 [Former Students](./former-students.html)
 <ul>
