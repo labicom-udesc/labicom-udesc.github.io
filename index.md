@@ -15,7 +15,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li>
 
-**Graduate Students (MSc):**
+<b>Graduate Students (MSc):</b>
 <li>Gabriel Dominico</li>
 <li>João Pedro Schmitt</li>
 <li>Mateus Boiani</li>
@@ -23,7 +23,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Nilcimar Neitzel Will</li>
 <li>Renan Silva</li>
 <br>
-**Undergraduate Students:**
+<b>Undergraduate Students:</b>
 <li>André Dias</li>
 <li>André Tragancin</li>
 <li>Bruno Werner </li>  
@@ -35,7 +35,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 [Former Students](./former-students.html)
 <ul>
 
-**Cooperation network of current projects:**
+<b>Cooperation network of current projects:</b>
 <li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a> - <a href="mailto:chidambaram@udesc.br">Email</a>)
 </li> 
   
