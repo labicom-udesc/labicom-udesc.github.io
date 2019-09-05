@@ -133,7 +133,7 @@ The available infraestructure is under update.
 
 ### Python
 <ul>
-<li><a href="https://github.com/gplichoski/OptimizationAlgorithms" target="_blank" rel="noopener">OptAlgs</a>: <span class="text-gray-dark mr-2">This repository contains some population-based optimization algorithms in Python, namely PSO, DE, and CODE.</span> Dev: <a href="https://github.com/gplichoski/" target="_blank" rel="noopener">Guilherme Plichoski</a>.</li>
+<li><a href="https://github.com/gplichoski/OptimizationAlgorithms" target="_blank" rel="noopener">OptAlgs</a>: <span class="text-gray-dark mr-2">This repository contains some population-based optimization algorithms in Python, namely PSO, DE, SaDE, and CODE.</span> Dev: <a href="https://github.com/gplichoski/" target="_blank" rel="noopener">Guilherme Plichoski</a>.</li>
 
 <li><a href="https://github.com/olivsamuk/Time-Series-Prediction-Algorithms" target="_blank" rel="noopener">Time Series Prediction</a>: <span class="text-gray-dark mr-2">This repository contains three algorithms for time sseries prediction, namely: Recurrent Neural Network, ARIMA, and Support Vector Regression.</span> Dev: <a href="https://github.com/olivsamuk" target="_blank" rel="noopener">Samuel Oliveira</a>.
 <ul>
