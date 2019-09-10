@@ -93,7 +93,15 @@ The available infraestructure is under update.
 
 ### C/C++
 <ul>
-  
+
+<li><a href="https://github.com/mateuz/HjDE-2D" target="_blank" rel="noopener">cuHjDE 2D-AB</a>: A GPU-Based Hybrid jDE Algorithm Applied to the 2D-AB Protein Structure Prediction. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.
+<ul>
+<li>
+<div class="layout-cell-pad-5">BOIANI, M. ; DOMINICO, G. ; PARPINELLI, R. S. . Upcoming BRACIS, 2019.</div>
+</li>
+</ul>
+</li>
+
 <li><a href="https://mateuz.github.io/cujDE/" target="_blank" rel="noopener">cujDE</a>: A GPU-based jDE algorithm for unconstrained continuous optimization. Dev: <a href="https://github.com/mateuz/" target="_blank" rel="noopener">Mateus Boiani</a>.
 <ul>
 <li>
