@@ -42,7 +42,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Heitor Silvério Lopes (UTFPR - <a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://bioinfo.cpgei.ct.utfpr.edu.br" target="_blank" rel="noopener">BIOINFO-IC</a>)
 </li>
 
-<li>Márcio Dorn (UFRS - <a href="http://lattes.cnpq.br/6355224981962273" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://sbcb.inf.ufrgs.br/home" target="_blank" rel="noopener">Structural Bioinformatics and Computational Biology Lab - SBCB</a>)
+<li>Márcio Dorn (UFRS - <a href="http://lattes.cnpq.br/6355224981962273" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://sbcb.inf.ufrgs.br/home" target="_blank" rel="noopener">SBCB Lab</a>)
 </li>
 
 <li>Adriano Fiorese (UDESC/DCC - <a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a>)
