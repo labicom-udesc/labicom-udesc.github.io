@@ -94,7 +94,8 @@ The available infraestructure is under update.
 
 ## Source Code
 
-<p> Several projects developed at LABICOM have source code available in the following <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">link</a>.
+Several projects developed at LABICOM have source code available in the following <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">link</a>.
+
 <br>
 
 ## Address
