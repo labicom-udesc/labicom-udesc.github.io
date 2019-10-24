@@ -32,7 +32,9 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Guilherme Costa </li>
 <li>Luiza Engler Stadelhofer</li>
 </ul>
-[Former Students](./former-students.html)
+
+<a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
+
 <ul>
 
 <b>Cooperation network of current projects:</b>
@@ -95,8 +97,6 @@ The available infraestructure is under update.
 ## Source Code
 
 Several projects developed at LABICOM have source code available in the following <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">link</a>.
-
-<br>
 
 ## Address
 
