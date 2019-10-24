@@ -94,10 +94,10 @@ The available infraestructure is under update.
 
 ## Source Code
 
-<p> Several projects developed at LABICOM have source code available in the following <a href="https://github.com/labicom-udesc/labicom-udesc.github.io/blob/master/source-code.md" target="_blank" rel="noopener">link</a>.
+<p> Several projects developed at LABICOM have source code available in the following <a href="https://labicom-udesc.github.io/source-code.html" target="_blank" rel="noopener">link</a>.
 <br>
 
-[Former Students](./source-code.html)
+[Source Code](./source-code.md)
 
 ### C/C++
 <ul>
