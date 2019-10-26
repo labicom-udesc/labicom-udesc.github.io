@@ -71,7 +71,8 @@
 
 <li><a href="https://github.com/LBMbr/SelectionMethodsProject" target="_blank" rel="noopener">CPS Problem</a>: contains the implementation of all selection methods developed to approach the Cloud Provider Selection Problem. Deterministic methods such as DEA and matching, and metaheuristic methods such as GA, DDE, BDE, SA and stochastic 3-opt. Dev: <a href="https://github.com/LBMbr/" target="_blank" rel="noopener">Lucas Borges de Moraes</a>.
 <ul>
-<li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. "An Evolutive Hybrid Approach to Cloud Computing Provider Selection". In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
+<li>MORAES, L. B. ; FIORESE, A. ; PARPINELLI, R. S. . An Improved Evolutionary Hybrid Method for Cloud Provider Selection. In: 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019, Salvador-BH. 8th Brazilian Conference on Intelligent Systems (BRACIS), 2019. v. 1. p. 24-29.
+</li>
 
 <li>MORAES, L. B.; FIORESE, A.; PARPINELLI, R.S.. "An Evolutive Hybrid Approach to Cloud Computing Provider Selection". In: IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. Proceedings of IEEE Congress on Evolutionary Computation (CEC), 2018. p. 1564-1571.</li>
 </ul>
