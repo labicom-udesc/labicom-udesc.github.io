@@ -15,19 +15,19 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li>
 
+<b>Graduate Students (PhD):</b>
+<li>Mateus Boiani (UFRS)</li>
+<br>
 <b>Graduate Students (MSc):</b>
 <li>Gabriel Dominico</li>
 <li>João Pedro Schmitt</li>
-<li>Mateus Boiani</li>
 <li>Mateus Nicoladelli de Oliveira </li>
 <li>Nilcimar Neitzel Will</li>
-<li>Renan Silva</li>
 <br>
 <b>Undergraduate Students:</b>
 <li>André Dias</li>
 <li>André Tragancin</li>
 <li>Bruno Werner </li>  
-<li>Christopher Renkavieski </li>
 <li>Eduarda Cristina Rosa </li>
 <li>Guilherme Costa </li>
 <li>Luiza Engler Stadelhofer</li>
