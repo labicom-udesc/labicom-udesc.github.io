@@ -5,7 +5,8 @@ layout: default
 ## Former Students
 
 <ul>
-
+<li>Mateus Boiani (MSc Graduate 2019)</li>
+<li>Renan Silva (MSc Graduate 2019)</li>
 <li>Lucas Borges de Moraes (MSc Graduate 2019)</li>
 <li>Christopher Renkavieski (Undergraduate 2019)</li>
 <li>Guilherme Plichoski (MSc Graduate 2018)</li>
