@@ -14,8 +14,8 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/F-8282-2016" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="https://scholar.google.com.br/citations?user=C02L7R0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Rafael_Parpinelli" target="_blank" rel="noopener">ResearchGate</a> - <a href="https://dblp.uni-trier.de/pers/hd/p/Parpinelli:Rafael_S=" target="_blank" rel="noopener">dblp</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
 </li></ul>
 </li>
+</ul>
 
-<ul>
 <b>Cooperation network of current projects:</b>
 <li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
@@ -46,7 +46,6 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>  
-</ul>
 
 <b>Graduate Students (PhD):</b>
 <li>Mateus Boiani (UFRS) - Advisor: Márcio Dorn - Co-advisor: Rafael S. Parpinelli</li>
