@@ -15,28 +15,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li></ul>
 </li>
 
-<b>Graduate Students (PhD):</b>
-<li>Mateus Boiani (UFRS)</li>
-<br>
-<b>Graduate Students (MSc):</b>
-<li>Gabriel Dominico</li>
-<li>João Pedro Schmitt</li>
-<li>Mateus Nicoladelli de Oliveira </li>
-<li>Nilcimar Neitzel Will</li>
-<br>
-<b>Undergraduate Students:</b>
-<li>André Dias</li>
-<li>André Tragancin</li>
-<li>Bruno Werner </li>  
-<li>Eduarda Cristina Rosa </li>
-<li>Guilherme Costa </li>
-<li>Luiza Engler Stadelhofer</li>
-</ul>
-
-<a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
-
 <ul>
-
 <b>Cooperation network of current projects:</b>
 <li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
@@ -67,8 +46,27 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>  
-  
 </ul>
+
+<b>Graduate Students (PhD):</b>
+<li>Mateus Boiani (UFRS) - Advisor: Márcio Dorn - Co-advisor: Rafael S. Parpinelli</li>
+<br>
+<b>Graduate Students (MSc):</b>
+<li>Gabriel Dominico - Advisor: Rafael S. Parpinelli.</li>
+<li>João Pedro Schmitt - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli</li>
+<li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
+<li>Nilcimar Neitzel Will - Advisor: Rafael S. Parpinelli.</li>
+<br>
+<b>Undergraduate Students:</b>
+<li>André Dias - Advisor: Rafael S. Parpinelli.</li>
+<li>André Tragancin - Advisor: Gilmário Barbosa</li>
+<li>Bruno Werner - Advisor: Rafael S. Parpinelli.</li>  
+<li>Eduarda Cristina Rosa - Advisor: Rafael S. Parpinelli.</li>
+<li>Guilherme Costa - Advisor: Chidambaram Chidambaram</li>
+<li>Luiza Engler Stadelhofer - Advisor: Rafael S. Parpinelli.</li>
+</ul>
+
+<a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
 
 ## Research Projects
 
