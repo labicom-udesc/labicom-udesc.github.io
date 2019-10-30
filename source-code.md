@@ -50,9 +50,15 @@
 
 ### Python
 <ul>
+<li><a href="https://github.com/krowck/BRACIS" target="_blank" rel="noopener">NCjDE-HJar</a>: <span class="text-gray-dark mr-2">the cluster-based external archive maintenance strategy with the jDE algorithm applied to continuous multimodal optimization with multiple peaks. The DBSCAN algorithm, the Hooke-Jeeves local search algorithm and the Michalewicz mutation strategy are employed.</span> Dev: <a href="https://github.com/krowck" target="_blank" rel="noopener">Gabriel Dominico</a>.
+<ul>
+<li>DOMINICO, G.; BOIANI, M.; PARPINELLI, R. S.. Differential Evolution with Cluster-based External Archive and Local Search for Multimodal Optimization. In: 8th Brazilian Conference on Intelligent Systems (BRACIS), Salvador-BH, 2019. v. 1. p. 335-340</li>
+</ul>
+</li>
+
 <li><a href="https://github.com/gplichoski/OptimizationAlgorithms" target="_blank" rel="noopener">OptAlgs</a>: <span class="text-gray-dark mr-2">This repository contains some population-based optimization algorithms in Python, namely PSO, DE, SaDE, and CODE.</span> Dev: <a href="https://github.com/gplichoski/" target="_blank" rel="noopener">Guilherme Plichoski</a>.</li>
 
-<li><a href="https://github.com/olivsamuk/Time-Series-Prediction-Algorithms" target="_blank" rel="noopener">Time Series Prediction</a>: <span class="text-gray-dark mr-2">This repository contains three algorithms for time sseries prediction, namely: Recurrent Neural Network, ARIMA, and Support Vector Regression.</span> Dev: <a href="https://github.com/olivsamuk" target="_blank" rel="noopener">Samuel Oliveira</a>.
+<li><a href="https://github.com/olivsamuk/Time-Series-Prediction-Algorithms" target="_blank" rel="noopener">Time Series Prediction</a>: <span class="text-gray-dark mr-2">Three algorithms for time sseries prediction are available, namely: Recurrent Neural Network, ARIMA, and Support Vector Regression.</span> Dev: <a href="https://github.com/olivsamuk" target="_blank" rel="noopener">Samuel Oliveira</a>.
 <ul>
 <li>OLIVEIRA, S., KNIESS, J., PARPINELLI, R.S., CASTAÑEDA, W. “Predição de Séries Temporais em Internet das Coisas com Redes Neurais Recorrentes”, In: 50o Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2018.</li>
 </ul>
