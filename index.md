@@ -17,6 +17,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </ul>
 
 <b>Cooperation network of current projects:</b>
+<ul>
 <li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
   
@@ -46,17 +47,24 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>  
+</ul>
+<br>
 
 <b>Graduate Students (PhD):</b>
+<ul>
 <li>Mateus Boiani (UFRS) - Advisor: Márcio Dorn - Co-advisor: Rafael S. Parpinelli</li>
 <br>
+  
 <b>Graduate Students (MSc):</b>
 <li>Gabriel Dominico - Advisor: Rafael S. Parpinelli.</li>
 <li>João Pedro Schmitt - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli</li>
 <li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
 <li>Nilcimar Neitzel Will - Advisor: Rafael S. Parpinelli.</li>
+</ul>
 <br>
+
 <b>Undergraduate Students:</b>
+<ul>
 <li>André Dias - Advisor: Rafael S. Parpinelli.</li>
 <li>André Tragancin - Advisor: Gilmário Barbosa</li>
 <li>Bruno Werner - Advisor: Rafael S. Parpinelli.</li>  
