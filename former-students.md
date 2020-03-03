@@ -5,6 +5,7 @@ layout: default
 ## Former Students
 
 <ul>
+<li>Luiza Engler Stadelhofer (Undergraduate 2019) - Advisor: Rafael S. Parpinelli.</li>
 <li>Mateus Boiani (MSc Graduate 2019) - Advisor: Rafael S. Parpinelli.</li>
 <li>Renan Silva (MSc Graduate 2019) - Advisor: Rafael S. Parpinelli.</li>
 <li>Lucas Borges de Moraes (MSc Graduate 2019) - Advisor: Adriano Fiorese - Co-advisor: Rafael S. Parpinelli.</li>
