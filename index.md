@@ -30,9 +30,6 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Adriano Fiorese (UDESC/DCC - <a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
-<li>Avanilde Kemczinski (UDESC/DCC - <a href="http://lattes.cnpq.br/0048790978449306" target="_blank" rel="noopener">CV Lattes</a>)
-</li>
-
 <li>Cinara Terezinha Menegazzo (UDESC/DCC - <a href="http://lattes.cnpq.br/2438926399556474" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
@@ -56,6 +53,8 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <b>Graduate Students (MSc):</b>
 <ul>
+<li>Douglas Macedo Sgrott - Advisor: Rafael S. Parpinelli.</li>
+<li>Felipe Marchi - Advisor: Rafael S. Parpinelli.</li>
 <li>Gabriel Dominico - Advisor: Rafael S. Parpinelli.</li>
 <li>João Pedro Schmitt - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli</li>
 <li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
@@ -67,9 +66,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>André Dias - Advisor: Rafael S. Parpinelli.</li>
 <li>André Tragancin - Advisor: Gilmário Barbosa</li>
 <li>Bruno Werner - Advisor: Rafael S. Parpinelli.</li>  
-<li>Eduarda Cristina Rosa - Advisor: Rafael S. Parpinelli.</li>
 <li>Guilherme Costa - Advisor: Chidambaram Chidambaram</li>
-<li>Luiza Engler Stadelhofer - Advisor: Rafael S. Parpinelli.</li>
+<li>Eliton Machado da Silva - Advisor: Rafael S. Parpinelli.</li>
+<li>Mateus Bittencourt - Advisor: Rafael S. Parpinelli.</li>
+<li>Peter Brendel - Advisor: Rafael S. Parpinelli.</li>
 </ul>
 
 <a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
@@ -93,10 +93,21 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 ## Laboratory Facilities
 
 <ul>
-<li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8 GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.</li>
+
+<li title="" data-original-title="">Workstations.</li>
+
+<li title="" data-original-title="">Node 01: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.5TB RAM, 300GB HD .</li>
+
+<li title="" data-original-title="">Node 02: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.5TB RAM, 300GB HD .</li>
+
+<li title="" data-original-title="">Node 03: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64MB RAM, 2TB HD, 530GB SSD.
+<ul><li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8   GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.
+</li></ul>
+</li>
+
 </ul>
 
-The available infraestructure is under update.
+The available infraestructure is under update. A storage and more workstations are upcoming.
 
 ## Source Code
 
