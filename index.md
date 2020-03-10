@@ -118,7 +118,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 </ul>
 
-The available infraestructure is under update. A storage and more workstations are upcoming.
+The available infraestructure is under update.
 
 ## Source Code
 
