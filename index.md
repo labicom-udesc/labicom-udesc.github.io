@@ -46,13 +46,13 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li>
 
 <br>
-<li>Hospital de Olhos Sadalla Amin Ghanem (<a href="www.sadalla.com.br" target="_blank" rel="noopener">HOSAG</a>) - Centro de Estudos, Pesquisa e Inovação
+<li>Hospital de Olhos Sadalla Amin Ghanem (<a href="http://www.sadalla.com.br" target="_blank" rel="noopener">HOSAG</a>) - Centro de Estudos, Pesquisa e Inovação
 </li>
 
-<li>ArcelorMittal <a href="www.arcelormittal.com.br" target="_blank" rel="noopener">VEGA</a> - Pesquisa e Inovação em Processoe e Produtos
+<li>ArcelorMittal <a href="http://www.arcelormittal.com.br" target="_blank" rel="noopener">VEGA</a> - Pesquisa e Inovação em Processoe e Produtos
 </li>
 
-<li><a href="www.pollux.com.br" target="_blank" rel="noopener">POLLUX</a> - Núcleo de Automação e Robótica
+<li><a href="http://www.pollux.com.br" target="_blank" rel="noopener">POLLUX</a> - Núcleo de Automação e Robótica
 </li>
 
 </ul>
