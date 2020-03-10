@@ -43,7 +43,18 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li> 
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
-</li>  
+</li>
+
+<br>
+<li>Hospital de Olhos Sadalla Amin Ghanem (<a href="www.sadalla.com.br" target="_blank" rel="noopener">HOSAG</a>) - Centro de Estudos, Pesquisa e Inovação
+</li>
+
+<li>ArcelorMittal <a href="www.arcelormittal.com.br" target="_blank" rel="noopener">VEGA</a> - Pesquisa e Inovação em Processoe e Produtos
+</li>
+
+<li><a href="www.pollux.com.br" target="_blank" rel="noopener">POLLUX</a> - Núcleo de Automação e Robótica
+</li>
+
 </ul>
 
 <b>Graduate Students (PhD):</b>
