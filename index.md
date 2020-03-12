@@ -106,7 +106,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <ul>
 
-<li title="" data-original-title="">Workstations.</li>
+<li title="" data-original-title="">Workstations: AMD Ryzen 7 2700X, 3.7GHz/4.35GHz, 16 CPUs, 16GB RAM, 1TB HD, 240GB SSD,  GeForce RTX 2060 Super.</li>
 
 <li title="" data-original-title="">Node 01: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
 
