@@ -121,7 +121,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 The available infraestructure is under update.
 
-## <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">Source Code<\a>
+## <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">Source Code</a>
 
 Several projects developed at LABICOM have source code available to download in the link above.
 
