@@ -64,10 +64,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <b>Graduate Students (MSc):</b>
 <ul>
+<li>Alexandre Heiden - Advisor: Rafael S. Parpinelli.</li>
+<li>Danilo Gonçalves de Oliveira - Advisor: Rafael S. Parpinelli.</li>
 <li>Douglas Macedo Sgrott - Advisor: Rafael S. Parpinelli</li>
 <li>Felipe Marchi - Advisor: Rafael S. Parpinelli</li>
-<li>Gabriel Dominico - Advisor: Rafael S. Parpinelli.</li>
-<li>João Pedro Schmitt - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli</li>
 <li>Lucas Schulze - Advisor: Douglas Wildgrube Bertol</li>  
 <li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
 <li>Nilcimar Neitzel Will - Advisor: Rafael S. Parpinelli</li>
@@ -121,9 +121,9 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 The available infraestructure is under update.
 
-## Source Code
+## <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">Source Code<\a>
 
-Several projects developed at LABICOM have source code available in the following <a href="https://labicom-udesc.github.io/source-code.html" target="" rel="noopener">link</a>.
+Several projects developed at LABICOM have source code available to download in the link above.
 
 ## Address
 
