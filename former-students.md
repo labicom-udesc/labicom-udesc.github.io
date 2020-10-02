@@ -7,8 +7,8 @@ layout: default
 <ul>
 <li>Bruno Werner (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>  
 <li>André Dias (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>
-<li>Gabriel Dominico (MSc Graduate 2020) - Advisor: Rafael S. Parpinelli.<\li>
-<li>João Pedro Schmitt (MSc Graduate 2020) - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli<\li>
+<li>Gabriel Dominico (MSc Graduate 2020) - Advisor: Rafael S. Parpinelli.</li>
+<li>João Pedro Schmitt (MSc Graduate 2020) - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli</li>
 <li>Luiza Engler Stadelhofer (Undergraduate 2019) - Advisor: Rafael S. Parpinelli.</li>
 <li>Mateus Boiani (MSc Graduate 2019) - Advisor: Rafael S. Parpinelli.</li>
 <li>Renan Silva (MSc Graduate 2019) - Advisor: Rafael S. Parpinelli.</li>
@@ -19,7 +19,6 @@ layout: default
 <li>Sandro Roberto Loiola de Menezes (MSc Graduate 2016) - Advisor: Rafael S. Parpinelli.</li>
 <li>Wesklei Migliorini (Undergraduate 2016) - Advisor: Rafael S. Parpinelli.</li>
 <li>Leanderson André (MSc Graduate 2015) - Advisor: Rafael S. Parpinelli.</li>
-
 </ul>
 
 <br>
