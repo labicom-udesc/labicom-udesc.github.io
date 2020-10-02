@@ -5,6 +5,8 @@ layout: default
 ## Former Students
 
 <ul>
+<li>Bruno Werner (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>  
+<li>André Dias (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>
 <li>Gabriel Dominico (MSc Graduate 2020) - Advisor: Rafael S. Parpinelli.<\li>
 <li>João Pedro Schmitt (MSc Graduate 2020) - Advisor: Fabiano Baldo - Co-advisor: Rafael S. Parpinelli<\li>
 <li>Luiza Engler Stadelhofer (Undergraduate 2019) - Advisor: Rafael S. Parpinelli.</li>
