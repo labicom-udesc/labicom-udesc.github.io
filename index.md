@@ -68,16 +68,13 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Danilo Gonçalves de Oliveira - Advisor: Rafael S. Parpinelli.</li>
 <li>Douglas Macedo Sgrott - Advisor: Rafael S. Parpinelli</li>
 <li>Felipe Marchi - Advisor: Rafael S. Parpinelli</li>
-<li>Lucas Schulze - Advisor: Douglas Wildgrube Bertol</li>  
 <li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
 <li>Nilcimar Neitzel Will - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <b>Undergraduate Students:</b>
 <ul>
-<li>André Dias - Advisor: Rafael S. Parpinelli</li>
 <li>André Tragancin - Advisor: Gilmário Barbosa</li>
-<li>Bruno Werner - Advisor: Rafael S. Parpinelli</li>  
 <li>Guilherme Costa - Advisor: Chidambaram Chidambaram</li>
 <li>Eliton Machado da Silva - Advisor: Rafael S. Parpinelli</li>
 <li>Mateus Bittencourt - Advisor: Rafael S. Parpinelli</li>
