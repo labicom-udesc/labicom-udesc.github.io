@@ -50,6 +50,13 @@
 
 ### Python
 <ul>
+<li><a href="https://github.com/krowck/NCjDE-2LSar/" target="_blank" rel="noopener">NCjDE-2LSar</a>: <span class="text-gray-dark mr-2">the cluster-based external archive and local search jDE applied to continuous multimodal optimization with multiple peaks.</span> Dev: <a href="https://github.com/krowck" target="_blank" rel="noopener">Gabriel Dominico</a>.
+<ul>
+<li>DOMINICO, G.; PARPINELLI, R. S.. Multiple global optima location using differential evolution, clustering, and local search. Applied Soft Computing,
+2021, 107448, ISSN 1568-4946</li>
+</ul>
+</li>
+
 <li><a href="https://github.com/krowck/BRACIS" target="_blank" rel="noopener">NCjDE-HJar</a>: <span class="text-gray-dark mr-2">the cluster-based external archive maintenance strategy with the jDE algorithm applied to continuous multimodal optimization with multiple peaks. The DBSCAN algorithm, the Hooke-Jeeves local search algorithm and the Michalewicz mutation strategy are employed.</span> Dev: <a href="https://github.com/krowck" target="_blank" rel="noopener">Gabriel Dominico</a>.
 <ul>
 <li>DOMINICO, G.; BOIANI, M.; PARPINELLI, R. S.. Differential Evolution with Cluster-based External Archive and Local Search for Multimodal Optimization. In: 8th Brazilian Conference on Intelligent Systems (BRACIS), Salvador-BH, 2019. v. 1. p. 335-340</li>
