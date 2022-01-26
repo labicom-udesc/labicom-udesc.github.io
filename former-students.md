@@ -5,6 +5,12 @@ layout: default
 ## Former Students
 
 <ul>
+<li>Peter Brendel (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
+<li>Eliton Machado (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
+<li>Mateus Bittencourt (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
+<li>Felipe Marchi (MSc Graduate 2021) - Advisor: Rafael S. Parpinelli</li>  
+<li>Mateus Nicoladelli de Oliveira (MSc Graduate 2021) - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>    
+<li>Nilcimar Neitzel Will (MSc Graduate 2021) - Advisor: Rafael S. Parpinelli</li>  
 <li>Bruno Werner (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>  
 <li>André Dias (Undergraduate 2020) - Advisor: Rafael S. Parpinelli</li>
 <li>Gabriel Dominico (MSc Graduate 2020) - Advisor: Rafael S. Parpinelli.</li>
