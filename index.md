@@ -65,20 +65,16 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <b>Graduate Students (MSc):</b>
 <ul>
 <li>Alexandre Heiden - Advisor: Rafael S. Parpinelli.</li>
+<li>Bernard Silva - Advisor: Rafael S. Parpinelli</li>
 <li>Danilo Gonçalves de Oliveira - Advisor: Rafael S. Parpinelli.</li>
 <li>Douglas Macedo Sgrott - Advisor: Rafael S. Parpinelli</li>
-<li>Felipe Marchi - Advisor: Rafael S. Parpinelli</li>
-<li>Mateus Nicoladelli de Oliveira - Advisor: Ademir Nied - Co-advisor: Rafael S. Parpinelli</li>
-<li>Nilcimar Neitzel Will - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <b>Undergraduate Students:</b>
 <ul>
-<li>André Tragancin - Advisor: Gilmário Barbosa</li>
-<li>Guilherme Costa - Advisor: Chidambaram Chidambaram</li>
-<li>Eliton Machado da Silva - Advisor: Rafael S. Parpinelli</li>
-<li>Mateus Bittencourt - Advisor: Rafael S. Parpinelli</li>
-<li>Peter Brendel - Advisor: Rafael S. Parpinelli</li>
+<li>Ana Athayde - Advisor: Rafael S. Parpinelli</li>
+<li>Maísa Fernandes Gomes - Advisor: Rafael S. Parpinelli</li>
+<li>Pedro Serpa - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
