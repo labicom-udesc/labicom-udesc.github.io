@@ -30,16 +30,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Adriano Fiorese (UDESC/DCC - <a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
-<li>Cinara Terezinha Menegazzo (UDESC/DCC - <a href="http://lattes.cnpq.br/2438926399556474" target="_blank" rel="noopener">CV Lattes</a>)
-</li>
-
 <li>Fabiano Baldo (UDESC/DCC - <a href="http://lattes.cnpq.br/3000239587440812" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
 
 <li>Gilmário Barbosa dos Santos (UDESC/DCC - <a href="http://lattes.cnpq.br/2957755655265658" target="_blank" rel="noopener">CV Lattes</a>)
-</li> 
-
-<li>Ademir Nied (UDESC/DEE - <a href="http://lattes.cnpq.br/3923997065773174" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
@@ -50,9 +44,6 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li>
 
 <li>ArcelorMittal <a href="http://www.arcelormittal.com.br" target="_blank" rel="noopener">VEGA</a> - Products and Processes Research and Innovation Group
-</li>
-
-<li><a href="http://www.pollux.com.br" target="_blank" rel="noopener">POLLUX</a> - Automation and Robotics Center
 </li>
 
 </ul>
