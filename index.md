@@ -39,6 +39,9 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
+<li>Yuri Kaszubowski Lopes (UDESC/DCC - <a href="http://lattes.cnpq.br/6645986822120975" target="_blank" rel="noopener">CV Lattes</a>)
+</li>
+  
 <br>
 <li>Hospital de Olhos Sadalla Amin Ghanem (<a href="http://www.sadalla.com.br" target="_blank" rel="noopener">HOSAG</a>) - Studies, Research and Innovation Center
 </li>
