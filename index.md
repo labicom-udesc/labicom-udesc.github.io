@@ -34,7 +34,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 </li> 
 
 <li>Gilmário Barbosa dos Santos (UDESC/DCC - <a href="http://lattes.cnpq.br/2957755655265658" target="_blank" rel="noopener">CV Lattes</a>)
-</li> 
+  </li>
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
