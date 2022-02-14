@@ -18,9 +18,6 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <b>Cooperation network of current projects:</b>
 <ul>
-<li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a>)
-</li> 
-  
 <li>Heitor Silvério Lopes (UTFPR - <a href="http://lattes.cnpq.br/4045818083957064" target="_blank" rel="noopener">CV Lattes</a> - <a href="http://bioinfo.cpgei.ct.utfpr.edu.br" target="_blank" rel="noopener">BIOINFO-IC</a>)
 </li>
 
@@ -30,16 +27,19 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Adriano Fiorese (UDESC/DCC - <a href="http://lattes.cnpq.br/8623647927627876" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
+<li>Chidambaram Chidambaram (UDESC/DEPS/COCA - <a href="http://lattes.cnpq.br/0500245520662573" target="_blank" rel="noopener">CV Lattes</a>)
+</li> 
+  
 <li>Fabiano Baldo (UDESC/DCC - <a href="http://lattes.cnpq.br/3000239587440812" target="_blank" rel="noopener">CV Lattes</a>)
 </li> 
 
 <li>Gilmário Barbosa dos Santos (UDESC/DCC - <a href="http://lattes.cnpq.br/2957755655265658" target="_blank" rel="noopener">CV Lattes</a>)
-  </li>
+</li>
 
 <li>Douglas Wildgrube Bertol (UDESC/DEE - <a href="http://lattes.cnpq.br/5099032394205654" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
 
-<li>Yuri Kaszubowski Lopes (UDESC/DCC - <a href="http://lattes.cnpq.br/6645986822120975" target="_blank" rel="noopener">CV Lattes</a>)
+<li>Yuri Kaszubowski Lopes (UDESC/DCC/COCA - <a href="http://lattes.cnpq.br/6645986822120975" target="_blank" rel="noopener">CV Lattes</a>)
 </li>
   
 <br>
