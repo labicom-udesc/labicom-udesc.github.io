@@ -69,6 +69,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Ana Athayde - Advisor: Rafael S. Parpinelli</li>
 <li>Maísa Fernandes Gomes - Advisor: Rafael S. Parpinelli</li>
 <li>Pedro Serpa - Advisor: Rafael S. Parpinelli</li>
+<li>Vinícius Geremias - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
