@@ -5,6 +5,9 @@ layout: default
 ## Former Students
 
 <ul>
+<li>Alexandre Heiden (MSc Graduate 2022) - Advisor: Rafael S. Parpinelli</li>  
+<li>Danilo Gonçalves de Oliveira (MSc Graduate 2022) - Advisor: Rafael S. Parpinelli</li>  
+<li>Douglas Macedo Sgrott (MSc Graduate 2022) - Advisor: Rafael S. Parpinelli</li>  
 <li>Peter Brendel (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
 <li>Eliton Machado (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
 <li>Mateus Bittencourt (Undergraduate 2021) - Advisor: Rafael S. Parpinelli</li>  
