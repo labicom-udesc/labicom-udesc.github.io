@@ -48,7 +48,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li>ArcelorMittal <a href="http://www.arcelormittal.com.br" target="_blank" rel="noopener">VEGA</a> - Products and Processes Research and Innovation Group
 </li>
-
+  
+<li>Federação Unimed Santa Catarina <a href="https://www.unimed.coop.br/site/web/santacatarina" target="_blank" rel="noopener">UNIMED/SC</a> - Studies, Research and Innovation Group
+</li>
+  
 </ul>
 
 <b>Graduate Students (PhD):</b>
@@ -58,10 +61,8 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <b>Graduate Students (MSc):</b>
 <ul>
-<li>Alexandre Heiden - Advisor: Rafael S. Parpinelli.</li>
 <li>Bernard Silva - Advisor: Rafael S. Parpinelli</li>
-<li>Danilo Gonçalves de Oliveira - Advisor: Rafael S. Parpinelli.</li>
-<li>Douglas Macedo Sgrott - Advisor: Rafael S. Parpinelli</li>
+<li>Krigor Rosa - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <b>Undergraduate Students:</b>
@@ -70,6 +71,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li>Maísa Fernandes Gomes - Advisor: Rafael S. Parpinelli</li>
 <li>Pedro Serpa - Advisor: Rafael S. Parpinelli</li>
 <li>Vinícius Geremias - Advisor: Rafael S. Parpinelli</li>
+<li> Lucas Gonçalves Erdmann - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
