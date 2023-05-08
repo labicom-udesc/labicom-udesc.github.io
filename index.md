@@ -99,15 +99,16 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <ul>
 <li title="" data-original-title="">Workstations: AMD Ryzen 7 2700X, 3.7GHz/4.35GHz, 16 CPUs, 16GB RAM, 1TB HD, 240GB SSD,  GeForce RTX 2060 Super (Turing architecture, 2176 CUDA Cores, 240 Tensor Cores, 34 RT Cores, 8GB GDDR6, 448 GB/s Total Memory Bandwidth, 52 Tflops ML).</li>
 
-<li title="" data-original-title="">Node 01: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
-
+<li title="" data-original-title="">Node 01: Dell PowerEdge R650, Intel(R) Xeon(R) Gold CPU 6330N, 2.20GHz, 56 CPUs, 64GB RAM, 5TB SSD.</li>
+  
 <li title="" data-original-title="">Node 02: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
 
-<li title="" data-original-title="">Node 03: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64GB RAM, 2TB HD, 530GB SSD.
+<li title="" data-original-title="">Node 03: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
+
+<li title="" data-original-title="">Node 04: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64GB RAM, 2TB HD, 530GB SSD.
 <ul><li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8   GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.
 </li></ul></li>
   
-<li title="" data-original-title="">Node 04: Dell PowerEdge R650, Intel(R) Xeon(R) Gold CPU 6330N, 2.20GHz, 56 CPUs, 64GB RAM, 5TB SSD.</li>
 </ul>
 
 The available infraestructure is under update.
