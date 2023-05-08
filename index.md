@@ -63,15 +63,17 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <ul>
 <li>Bernard Silva - Advisor: Rafael S. Parpinelli</li>
 <li>Krigor Rosa - Advisor: Rafael S. Parpinelli</li>
+<li>Maísa Fernandes Gomes - Advisor: Rafael S. Parpinelli</li>
+<li>Vinícius Geremias - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <b>Undergraduate Students:</b>
 <ul>
 <li>Ana Athayde - Advisor: Rafael S. Parpinelli</li>
-<li>Maísa Fernandes Gomes - Advisor: Rafael S. Parpinelli</li>
+<li>Lucas Gonçalves Erdmann - Advisor: Rafael S. Parpinelli</li>
+<li>Otávio Augusto Almeida - Advisor: Rafael S. Parpinelli</li>
 <li>Pedro Serpa - Advisor: Rafael S. Parpinelli</li>
-<li>Vinícius Geremias - Advisor: Rafael S. Parpinelli</li>
-<li> Lucas Gonçalves Erdmann - Advisor: Rafael S. Parpinelli</li>
+<li>Thiago Brandenburg - Advisor: Rafael S. Parpinelli</li>
 </ul>
 
 <a href="https://labicom-udesc.github.io/former-students.html" target="" rel="noopener">Former students</a>.
@@ -104,7 +106,10 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li title="" data-original-title="">Node 03: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64GB RAM, 2TB HD, 530GB SSD.
 <ul><li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8   GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.
-</li></ul>
+</li>
+  
+<li title="" data-original-title="">Node 04: Dell PowerEdge R650, Intel(R) Xeon(R) Gold CPU 6330N, 2.20GHz, 56 CPUs, 64GB RAM, 5TB SSD.</li>
+</ul>
 </li>
 
 </ul>
