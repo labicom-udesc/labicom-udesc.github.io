@@ -50,6 +50,14 @@
 
 ### Python
 <ul>
+
+<li><a href="https://github.com/labicom-udesc/DSEA-Quota-PSPP" target="_blank" rel="noopener">DSEA-Quota-PSPP</a>: <span class="text-gray-dark mr-2">A Dynamic Speciation Evolutionary Algorithm with Fragment Insertion and Information-Based Adaptive Selection Strategy for Protein Structure Prediction.</span> Dev:  Nilcimar Neitzel Will.
+<ul>
+<li>
+WILL, N. N.; PARPINELLI, R. S. Comparing Best and Quota Fragment Picker Protocols Applied to Protein Structure Prediction. In: 12th World Congress on Nature and Biologically Inspired Computing (NaBIC 2020), 2020, Online.</li>
+</ul>
+</li>
+
 <li><a href="https://github.com/krowck/NCjDE-2LSar/" target="_blank" rel="noopener">NCjDE-2LSar</a>: <span class="text-gray-dark mr-2">the cluster-based external archive and local search jDE applied to continuous multimodal optimization with multiple peaks.</span> Dev: <a href="https://github.com/krowck" target="_blank" rel="noopener">Gabriel Dominico</a>.
 <ul>
 <li>DOMINICO, G.; PARPINELLI, R. S.. Multiple global optima location using differential evolution, clustering, and local search. Applied Soft Computing,
