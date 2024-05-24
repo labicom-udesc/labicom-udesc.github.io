@@ -101,9 +101,9 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 
 <li title="" data-original-title="">Node 01: Dell PowerEdge R650, Intel(R) Xeon(R) Gold CPU 6330N, 2.20GHz, 56 CPUs, 64GB RAM, 5TB SSD.</li>
   
-<li title="" data-original-title="">Node 02: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
+<li title="" data-original-title="">Node 02: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 1.7TB SAS.</li>
 
-<li title="" data-original-title="">Node 03: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SSD.</li>
+<li title="" data-original-title="">Node 03: Intel(R) Xeon(R) CPU E7-8860, 2.27GHz, 80 CPUs, 1.3TB RAM, 300GB SAS.</li>
 
 <li title="" data-original-title="">Node 04: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64GB RAM, 2TB HD, 530GB SSD.
 <ul><li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8   GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.
