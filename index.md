@@ -97,7 +97,7 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 ## Laboratory Facilities
 
 <ul>
-<li title="" data-original-title="">Workstations: AMD Ryzen 7 2700X, 3.7GHz/4.35GHz, 16 CPUs, 16GB RAM, 1TB HD, 240GB SSD,  GeForce RTX 2060 Super (Turing architecture, 2176 CUDA Cores, 240 Tensor Cores, 34 RT Cores, 8GB GDDR6, 448 GB/s Total Memory Bandwidth, 52 Tflops ML).</li>
+<li title="" data-original-title="">Workstations: AMD Ryzen 7 2700X, 3.7GHz/4.35GHz, 16 CPUs, 16GB RAM, 1TB HD, 240GB SSD, GeForce RTX 2060 Super (Turing architecture, 2176 CUDA Cores, 240 Tensor Cores, 34 RT Cores, 8GB GDDR6, 448 GB/s Total Memory Bandwidth, 52 Tflops ML).</li>
 
 <li title="" data-original-title="">Node 01: Dell PowerEdge R650, Intel(R) Xeon(R) Gold CPU 6330N, 2.20GHz, 56 CPUs, 64GB RAM, 5TB SSD.</li>
   
@@ -108,6 +108,8 @@ The Computational Intelligence Research Laboratory is part of the Applied Cognit
 <li title="" data-original-title="">Node 04: Intel(R) Core(TM) i9-9900K, 3.60GHz, 16 CPUs, 64GB RAM, 2TB HD, 530GB SSD.
 <ul><li title="" data-original-title="">Titan V GPU: Volta architecture, 5120 CUDA cores, 640 Tensor Cores, 12 GB HBM2, 652.8   GB/s Total Memory Bandwidth, 14,9 Tflops FP32, 110 Tflops ML. Thanks to the <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> Hardware Grant Program.
 </li></ul></li>
+
+<li title="" data-original-title="">Node 05: AMD Ryzen 9 7900X, 12-Core, 24-Threads, 4.7GHz, 96GB RAM, 4TB SSD, GeForce Quadro RTX 5000 Ada Generation, 32GB, 256-bits, 12800 CUDA cores, 400 Tensor cores quarta geração, 100 RT cores.</li>
   
 </ul>
 
